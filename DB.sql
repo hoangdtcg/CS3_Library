@@ -1,0 +1,1 @@
+CREATE DATABASE `demo-mvc-full` COLLATE `utf8_unicode_ci`;
